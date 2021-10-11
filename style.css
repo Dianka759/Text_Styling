@@ -1,0 +1,27 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-style: normal;
+    text-decoration: none;
+}
+
+h2 {
+    background-color: blueviolet;
+    color:white;
+    text-align: center;
+    font-style: italic;
+    text-decoration: none;
+}
+
+h3 {
+    background-color: cornflowerblue;
+    color: purple;
+    text-align: right;
+    font-style: normal;
+    text-decoration: underline
+}
+
+.blue {
+    color: skyblue;
+}
